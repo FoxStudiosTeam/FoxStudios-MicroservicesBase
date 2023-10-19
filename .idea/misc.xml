@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/../api-gateway" />
     <file type="web" url="file://$PROJECT_DIR$/../authservice" />
     <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../posts" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="liberica-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
