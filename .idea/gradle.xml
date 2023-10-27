@@ -21,6 +21,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../NeuroWebsocket" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../NeuroWebsocket" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/../api-gateway" />
         <option name="modules">
           <set>
