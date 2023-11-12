@@ -3,6 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/eureka-root" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../posts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../corporative" vcs="Git" />
   </component>
 </project>

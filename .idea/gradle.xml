@@ -4,6 +4,22 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../AuthServiceCorp" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../AuthServiceCorp" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../MessagingService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../MessagingService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="" />
         <option name="modules">
@@ -29,6 +45,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../StreamingService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../StreamingService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/../api-gateway" />
         <option name="modules">
           <set>
@@ -41,6 +65,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../authservice" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../corporative" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../corporative" />
           </set>
         </option>
       </GradleProjectSettings>

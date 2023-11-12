@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="e4b9b5b8-583c-46d8-b410-5c6addd7152e" name="mainroot@allserver (DDL) Mapping">
+      <data-sources db="08a4b46f-9473-4d4a-82e5-e0a34799059c" ddl="2f12b063-0fba-44fb-8a9a-b5bb6fb1bc34" />
+      <scope>
+        <node kind="database" qname="Conference">
+          <node kind="schema" qname="@" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="2f12b063-0fba-44fb-8a9a-b5bb6fb1bc34" />
+          <option name="name" value="mainroot@allserver (DDL)" />
+          <option name="dbmsName" value="POSTGRES" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
